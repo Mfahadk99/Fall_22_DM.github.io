@@ -6,7 +6,8 @@ Repo dedicated to Assignments and Project.
 | Name          | ID            |  
 | ------------- | ------------- |
 | M.Fahad       | 11977         |
-| Bilal Ahmed   | 11668         |
+| Bilal Ahmed   | 11668  
+|Samia Shoaib   | 12438
 
 ### Faculty : Sir Farooq Zaidi
 
